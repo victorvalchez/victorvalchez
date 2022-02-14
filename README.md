@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Víctor
 #### I am a Computer Science and Engineering student
-![I am a Computer Science and Engineering student](https://www.canva.com/design/DAE4W_RqQHM/DxQgZHKboVvPQfxl_FiYjg/view?utm_content=DAE4W_RqQHM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+![I am a Computer Science and Engineering student](https://github.com/victorvalchez/victorvalchez/blob/main/V%C3%ADctor%20Valencia%20Computer%20Science%20%26%20Engineering%20Student.jpg)
 
 Currently learning a lot of stuff and hopefully use it to get a job as a developer. My main interests are AI, Web Development, and App Development.
 
