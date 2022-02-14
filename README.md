@@ -1,6 +1,6 @@
+![Hi there 👋, My name is Víctor](https://github.com/victorvalchez/victorvalchez/blob/main/Carlos%20Yuhui.jpg)
 ### Hi there 👋, My name is Víctor
 #### I am a Computer Science and Engineering student
-![I am a Computer Science and Engineering student](https://github.com/victorvalchez/victorvalchez/blob/main/Carlos%20Yuhui.jpg)
 
 Currently learning a lot of stuff and hopefully use it to get a job as a developer. My main interests are AI, Web Development, and App Development.
 
