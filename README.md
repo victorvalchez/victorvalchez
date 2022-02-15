@@ -1,7 +1,6 @@
 <h1 align="center">Hello 👋, I'm Víctor</h1>
 <h3 align="center">A passionate CS & Engineering student from Spain</h3>
-(img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.brandonarrieta.dev%2F&psig=AOvVaw1bsbVmkwbaJpk-LE_Xf0jF&ust=1645004627171000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCICsgPa1gfYCFQAAAAAdAAAAABAZ![image](https://user-images.githubusercontent.com/75833066/154035997-25c9e29e-40fc-4002-981c-de74f80cfdda.png)
-")
+(img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.brandonarrieta.dev%2F&psig=AOvVaw1bsbVmkwbaJpk-LE_Xf0jF&ust=1645004627171000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCICsgPa1gfYCFQAAAAAdAAAAABAZ")
 
 - 🌱 I’m currently studing **my second year of university**
 
