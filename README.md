@@ -1,6 +1,6 @@
+[![MasterHead](https://github.com/victorvalchez/victorvalchez/blob/main/68747470733a2f2f692e696d6775722e636f6d2f384d75705a48592e676966.gif)]
 <h1 align="center">Hello 👋, I'm Víctor</h1>
 <h3 align="center">A passionate CS & Engineering student from Spain</h3>
-<img align="right" alt="Coding" width="400" src="">
 
 - 🌱 I’m currently studing **my second year of university**
 
